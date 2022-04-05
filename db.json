@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Matrix Renașterea",
+      "description":"Ca să afle dacă realitatea lui e o creație fizică sau a minții, Neo va trebui să-l urmărească din nou pe iepurele alb. Deja știe ce trebuie să facă, dar ce nu știe încă e că Matrixul e mai puternic și mai periculos decât înainte.",
+      "url":"",
+      "year":"2021",
+      "score":"60%",
+      "age":"+13",
+      "photo":"https://happycinema.ro/files/movie-image/ALXHPY/43/40/434/5059_thumbnail_1-bx200x286.jpg?_s=3ab6528d5a578934f4957d32e7b0b0bd",
+      "type":["Actiune", "SF"],
+      "actors":["Keanu Reeves","Keanu Reeves","Yahya Abdul-Mateen II","Jessica Henwick","Jonathan Groff","Neil Patrick Harris","Priyanka Chopra Jonas"]
+    },
+    {
+      "id": 2,
+      "title": "Dune",
+      "description":"Aceasta este saga luptătorului intergalactic Paul Atreides și a ascensiunii lui mesianice, pentru a-și conduce poporul în lupta pentru supraviețuire, împotriva unui baron malefic.",
+      "url":"",
+      "year":"2021",
+      "score":"81%",
+      "age":"+13",
+      "photo":"https://www.spietati.it/wp-content/uploads/2021/10/dune_loc1.jpg",
+      "type":["Aventura","SF"],
+      "actors":["Zendaya","Jason Momoa","Timothée Chalamet","Dave Bautista","Josh Brolin"]
+    },
+    {
+      "id": 3,
+      "title": "Blonda de la drept",
+      "description":"Elle Woods e o blondă californiană cu haine couture, prieteni fabuloși și cel mai chipeș iubit din campus. Așa că, atunci când Warner o părăsește brusc și pleacă la Harvard, Elle ia lucrurile în propriile mâini cu manichiură perfectă.",
+      "url":"",
+      "year":"2001",
+      "score":"87%",
+      "age":"+13",
+      "photo":"https://upload.wikimedia.org/wikipedia/ro/2/20/Blonda_de_la_drept.jpg",
+      "type":["Comedie"],
+      "actors":["Natalie Barish","Reese Witherspoon","Luke Wilson","Selma Blair"]
+    },
+     {
+      "id": 4,
+      "title": "Mândrie și prejudecată",
+      "description":"Pentru „Mândrie și prejudecată” regizorul Joe Wright nu uită ingredientele principale ale unei rețete de succes: adaptarea unui roman clasic îndrăgit și o distribuție de primă mână.",
+      "url":"",
+      "year":"2005",
+      "score":"91%",
+      "age":"+13",
+      "photo":"https://static.cinemagia.ro/img/db/movie/01/17/94/pride-prejudice-403549l.jpg",
+      "type":["Dragoste","Drama"],
+      "actors":["Keira Knightley","Matthew Macfadyen","Brenda Blethyn","Donald Sutherland","Tom Hollander"]
+    },
+     {
+      "id": 5,
+      "title": "Deadpool 2",
+      "description":"Mercenarul mutant Wade Wilson, Deadpool, adună o echipă de mutanți ca să protejeze un băiat cu abilități supranaturale care este urmărit de cyborgul Cable.",
+      "url":"",
+      "year":"2018",
+      "score":"87%",
+      "age":"+18",
+      "photo":"https://static.cinemagia.ro/img/db/movie/10/60/135/deadpool-2-540396l.jpg",
+      "type":["Comedie","Actiune"],
+      "actors":["Ryan Reynolds","Josh Brolin","Morena Baccarin","Julian Dennison","David Leitch"]
+    },
+     {
+      "id": 6,
+      "title": "S-a născut o stea",
+      "description":"Muzicianul Jackson Maine o descoperă pe artista Ally de care se și îndrăgostește. Dar pe măsură ce Ally devine din ce în ce mai cunoscută, relația lor se destramă de vreme ce Jack se luptă constant cu demonii săi.",
+      "url":"",
+      "year":"2018",
+      "score":"90%",
+      "age":"+13",
+      "photo":"https://upload.wikimedia.org/wikipedia/ro/thumb/8/8a/A_Star_Is_Born_Poster.jpg/260px-A_Star_Is_Born_Poster.jpg",
+      "type":["Dragoste"],
+      "actors":["Bradley Cooper","Lady Gaga","Andrew Dice Clay","Dave Chappelle"]
+    },
+     {
+      "id": 7,
+      "title": "Joker",
+      "description":"În Gotham, Arthur Fleck este un comediant cu probleme psihice care este ignorat și maltratat de societate. Apoi el începe să se revolte și să fie violent. Drumul lui îl aduce față în față cu alter ego-ul lui: Joker.",
+      "url":"",
+      "year":"2019",
+      "score":"90%",
+      "age":"+18",
+      "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xmgPYCIrTNVbITyPYK33ROaLlsSCkdJi1SGxwxrjFMEdMOeSkPqzHwQ-jt_TUbtiEVA&usqp=CAU",
+      "type":["Drama","Politist"],
+      "actors":["Joaquin Phoenix","Robert De Niro","Zazie Beetz","Frances Conroy","Brett Cullen"]
+    },
+     {
+      "id": 8,
+      "title": "Lunetistul american",
+      "description":"Regizorul Clint Eastwood ne aduce filmul „Lunetistul american” în care Bradley Cooper îl interpretează pe Chris Kyle, cel mai eficient lunetist din istoria militară a Statelor Unite ale Americii.",
+      "url":"",
+      "year":"2014",
+      "score":"87%",
+      "age":"+18",
+      "photo":"https://static.cinemagia.ro/img/db/movie/58/96/17/american-sniper-972396l.jpg",
+      "type":["Actiune","Biografic"],
+      "actors":["Bradley Cooper","Sienna Miller","Keir O'Donnell","Jake McDorman","Luke Grimes"]
+    },
+     {
+      "id": 9,
+      "title": "Argo",
+      "description":"Acționând sub acoperire și pretinzând că e producător hollywoodian de film SF în căutare de locații, un agent CIA (Ben Affleck) lansează o operație periculoasă ca să salveze 6 americani din Teheran, în timpul crizei de ostatici din 1979.",
+      "url":"",
+      "year":"2012",
+      "score":"87%",
+      "age":"+13",
+      "photo":"https://static.cinemagia.ro/img/resize/db/movie/02/51/08/argo-307071l-600x0-w-f9d1c402.jpg",
+      "type":["Thriller"],
+      "actors":["Ben Affleck","Bryan Cranston","Annie Littl","Alan Arkin","John Goodman"]
+    }
+  ]
+}
